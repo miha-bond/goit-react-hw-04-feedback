@@ -1,0 +1,18 @@
+.buttonWraper {
+  display: flex;
+  gap: 30px;
+}
+.button {
+  width: 75px;
+  height: 30px;
+  font-family: 'Comfortaa';
+  border-radius: 8px;
+
+  background: wheat;
+}
+
+.button:hover,
+.button:focus {
+  background: black;
+  color: wheat;
+}

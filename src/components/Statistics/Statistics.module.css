@@ -1,0 +1,27 @@
+.titleItem {
+  /* text-decoration: underline; */
+  text-shadow: #fc0 1px 0 10px;
+  font-weight: 300;
+}
+.good {
+  color: green;
+  font-weight: 500;
+}
+.neutral {
+  color: yellow;
+  font-weight: 500;
+}
+.bad {
+  color: red;
+  font-weight: 500;
+}
+.total {
+  font-weight: 500;
+}
+.totalPositive {
+  color: green;
+  font-weight: 500;
+}
+.statisticsWraper {
+  margin-left: 15px;
+}
